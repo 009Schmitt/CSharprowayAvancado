@@ -1,0 +1,8 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\bin\Debug\MeuObjetoToppt04.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\bin\Debug\MeuObjetoToppt04.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\bin\Debug\MeuObjetoToppt04.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\obj\Debug\MeuObjetoToppt04.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\obj\Debug\MeuObjetoToppt04.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\obj\Debug\MeuObjetoToppt04.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\obj\Debug\MeuObjetoToppt04.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuObjetoToppt04\obj\Debug\MeuObjetoToppt04.pdb
