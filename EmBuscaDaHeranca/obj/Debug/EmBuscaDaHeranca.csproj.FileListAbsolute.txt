@@ -1,0 +1,8 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\bin\Debug\EmBuscaDaHeranca.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\bin\Debug\EmBuscaDaHeranca.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\bin\Debug\EmBuscaDaHeranca.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\obj\Debug\EmBuscaDaHeranca.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\obj\Debug\EmBuscaDaHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\obj\Debug\EmBuscaDaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\obj\Debug\EmBuscaDaHeranca.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\EmBuscaDaHeranca\obj\Debug\EmBuscaDaHeranca.pdb
