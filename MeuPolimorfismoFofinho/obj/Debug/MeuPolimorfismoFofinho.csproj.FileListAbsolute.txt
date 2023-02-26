@@ -1,0 +1,8 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\bin\Debug\MeuPolimorfismoFofinho.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\bin\Debug\MeuPolimorfismoFofinho.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\bin\Debug\MeuPolimorfismoFofinho.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\obj\Debug\MeuPolimorfismoFofinho.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\obj\Debug\MeuPolimorfismoFofinho.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\obj\Debug\MeuPolimorfismoFofinho.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\obj\Debug\MeuPolimorfismoFofinho.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MeuPolimorfismoFofinho\obj\Debug\MeuPolimorfismoFofinho.pdb
