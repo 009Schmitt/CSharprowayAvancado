@@ -1,0 +1,8 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\bin\Debug\MVC.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\bin\Debug\MVC.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\bin\Debug\MVC.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\obj\Debug\MVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\obj\Debug\MVC.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MVC\obj\Debug\MVC.pdb
