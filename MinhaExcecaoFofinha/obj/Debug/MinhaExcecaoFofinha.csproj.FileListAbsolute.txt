@@ -1,0 +1,8 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\bin\Debug\MinhaExcecaoFofinha.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\bin\Debug\MinhaExcecaoFofinha.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\bin\Debug\MinhaExcecaoFofinha.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\obj\Debug\MinhaExcecaoFofinha.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\obj\Debug\MinhaExcecaoFofinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\obj\Debug\MinhaExcecaoFofinha.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\obj\Debug\MinhaExcecaoFofinha.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaExcecaoFofinha\obj\Debug\MinhaExcecaoFofinha.pdb
