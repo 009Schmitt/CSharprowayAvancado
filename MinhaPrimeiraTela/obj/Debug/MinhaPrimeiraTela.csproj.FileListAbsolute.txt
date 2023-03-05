@@ -1,0 +1,11 @@
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\bin\Debug\MinhaPrimeiraTela.exe.config
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\bin\Debug\MinhaPrimeiraTela.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\bin\Debug\MinhaPrimeiraTela.pdb
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.Form1.resources
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.Properties.Resources.resources
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.exe
+C:\Users\victor.schmitt\Desktop\SiteDaMargot\MinhaPrimeiraTela\obj\Debug\MinhaPrimeiraTela.pdb
